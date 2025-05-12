@@ -55,5 +55,4 @@ A simple **Streamlit web app** was created to make the model accessible for infe
 
 ---
 
-## 📁 File Structure
 
