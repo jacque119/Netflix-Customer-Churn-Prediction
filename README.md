@@ -51,7 +51,7 @@ A simple **Streamlit web app** was created to make the model accessible for infe
 - Upload new customer data (CSV)
 - View predicted churn outcomes
 
-🔗 [Try the App](https://your-streamlit-url.streamlit.app)
+🔗 [Try the App]([https://your-streamlit-url.streamlit.app](https://huggingface.co/spaces/rezaagassi11/Netflix_churn))
 
 ---
 
