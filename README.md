@@ -53,6 +53,13 @@ A simple **Streamlit web app** was created to make the model accessible for infe
 
 🔗 [Try the App](https://huggingface.co/spaces/rezaagassi11/Netflix_churn)
 
+---
+
+## 👤 Author
+
+**Reza Febian Agassi**  
+🔗 [LinkedIn](https://www.linkedin.com/in/reza-agassi-62240b2b7/) | 🐙 [GitHub](https://github.com/jacque119)
+
 
 ---
 
