@@ -1,0 +1,6 @@
+Dataset:
+
+https://www.kaggle.com/datasets/honeybearugly/netflix-engagment-dataset
+
+Deployment:
+https://huggingface.co/spaces/rezaagassi11/Netflix_churn/tree/main
